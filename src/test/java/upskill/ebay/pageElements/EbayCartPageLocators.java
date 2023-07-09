@@ -5,6 +5,9 @@ import org.openqa.selenium.support.FindBy;
 
 public class EbayCartPageLocators {
 	
+	//Changequantity
+
+	
 	//Shirt size type
 		@FindBy(xpath="//select[@aria-label='Please select a Size Type']")
 		public WebElement ddSizeType;
