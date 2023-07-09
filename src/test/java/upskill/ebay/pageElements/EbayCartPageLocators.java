@@ -5,7 +5,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class EbayCartPageLocators {
 	
-	//Changequantity
+	
 
 	
 	//Shirt size type
