@@ -15,6 +15,8 @@ public class EbaySearchResultActions {
 		PageFactory.initElements(SetupDrivers.driver, EbaySearchResultLocatorsObj);
 		}
 	
+	//changes for git
+	
 	public void verifyShoesItems() {
 		
 		//Option 1
